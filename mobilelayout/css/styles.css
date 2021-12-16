@@ -1,0 +1,82 @@
+.main {
+    float: left;
+    width: 60%;
+    padding: 0 20px;
+  }
+  .demo{
+      border: rgb(250, 250, 244) 1px solid;
+      border-radius: 40px;
+      background-color:rgb(250, 250, 244);
+
+  }
+  .demo1{
+     
+     margin-left: 20px;
+      text-transform: uppercase;
+  }
+  .badge{
+      background-color: #99A799 ;
+      border-radius: 10px;
+  }
+  div a{
+      text-decoration: none;
+      color: black;
+      text-transform: capitalize;
+    
+  }
+  div p{
+          font-size: 17px;
+      }
+     h1 del{
+        
+          color: darkgray;
+      }
+    .rating{
+        color: #fac106fd;
+    }
+      div button{
+          text-transform: capitalize;
+      }
+      .btnradius{
+          border-radius: 60px;
+          width: 220px;
+      }
+    
+      .imgc{
+          width: 30px;
+          height: 30px;
+          border-radius: 20px;
+          text-align: center;
+          background-color: rgb(216, 224, 231);
+      }
+      .box{
+          margin-top: 10px;    
+          height: 30px;
+              width: 30px;
+              -webkit-border-radius:15px;
+              -moz-border-radius: fill;
+              border-radius: 25px;
+             
+          
+          }
+          .container-fluid{
+              background: #041C32;
+              height: 100px;
+              width: 100%;
+          }
+         .test{
+          max-width: 360px;
+          min-width: 440px;
+          margin-left: 660px;
+         }
+        .center{
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 50%;
+            margin-bottom: 20px;
+        }
+       .nam{
+           margin-top: 50px;
+           font-size: 20px;
+       }
